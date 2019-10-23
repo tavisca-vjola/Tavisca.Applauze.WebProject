@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Tavisca.Applauze.Core.Controllers
+namespace Tavisca.Applauze.Core.WebProject.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

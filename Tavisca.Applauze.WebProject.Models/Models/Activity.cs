@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Tavisca.Applauze.WebProject.Models.Models
+namespace Tavisca.Applauze.Core.WebProject.Models.Models
 {
     public class Activity
     {

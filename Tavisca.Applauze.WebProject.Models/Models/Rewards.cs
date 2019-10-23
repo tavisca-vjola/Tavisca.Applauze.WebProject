@@ -1,6 +1,6 @@
-﻿using Tavisca.Applauze.WebProject.Models.Models.Enums;
+﻿using Tavisca.Applauze.Core.WebProject.Models.Models.Enums;
 
-namespace Tavisca.Applauze.WebProject.Models.Models
+namespace Tavisca.Applauze.Core.WebProject.Models.Models
 {
     public class Rewards
     {

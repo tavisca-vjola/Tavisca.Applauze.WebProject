@@ -10,7 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace Tavisca.Applauze.Core
+namespace Tavisca.Applauze.Core.WebProject
 {
     public class Startup
     {

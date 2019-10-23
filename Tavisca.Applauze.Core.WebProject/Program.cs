@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Tavisca.Applauze.Core
+namespace Tavisca.Applauze.Core.WebProject
 {
     public class Program
     {

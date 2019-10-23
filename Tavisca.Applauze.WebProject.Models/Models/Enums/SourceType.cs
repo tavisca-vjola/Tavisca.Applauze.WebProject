@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Tavisca.Applauze.WebProject.Models.Models
+namespace Tavisca.Applauze.Core.WebProject.Models.Models
 {
     public enum SourceType
     {
